@@ -19,10 +19,12 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/adelinopenedo"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="adelinopenedo" /></a></p><br><br>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adelinogp&show_icons=true&theme=dracula&locale=en&layout=compact" alt="adelinogp" /></p>
+<p><a href="https://ko-fi.com/adelinopenedo"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="adelinopenedo" /></a></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adelinogp&theme=highcontrast" alt="adelinogp" /></p>
+<br><br>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=adelinogp&theme=highcontrast" alt="adelinogp" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adelinogp&show_icons=true&theme=dracula&locale=en&layout=compact" alt="adelinogp" /></p>
 
